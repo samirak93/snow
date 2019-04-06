@@ -6,7 +6,7 @@ Based on the data from **National Oceanic and Atmospheric Administration**(NOAA)
 
 **Viz Output:**
 
-![](https://raw.githubusercontent.com/samirak93/snow/master/Snowstorm_folium.png)
+<img src="https://raw.githubusercontent.com/samirak93/snow/master/Snowstorm_folium.png" alt="drawing" width="700"/>
 
 The code (to scrape, process and build visualization) can be found in  [Complete_Notebook.ipynb](https://github.com/samirak93/snow/blob/master/Complete_Notebook.ipynb)
 
